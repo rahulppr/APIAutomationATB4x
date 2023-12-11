@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 27 11:28:01 IST 2023","Mon Nov 27 11:28:06 IST 2023","4732","All Test Suite","C:/Users/rahul/IdeaProjects/APIAutomationATB4x","org.example.misc.TestFile","org.example.misc.TestFile","getRequest","getRequest",""
